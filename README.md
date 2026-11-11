@@ -81,3 +81,13 @@
 | zaiye-bu-he-ni-wan-le.jpg | 再也不和你丸了 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/zaiye-bu-he-ni-wan-le.jpg |
 | bie-zou.jpg | 别走 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/bie-zou.jpg |
 | shei-gan-wuni-bendawang.jpg | 谁敢忤逆本大王？ | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/shei-gan-wuni-bendawang.jpg |
+| baimao-fadai.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-fadai.png |
+| baimao-he-pijiu.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-he-pijiu.png |
+| baimao-na-qiang.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-na-qiang.png |
+| baimao-xie-yan.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-xie-yan.png |
+| baimao-tu-shetou.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-tu-shetou.png |
+| baimao-tingge.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-tingge.png |
+| baimao-dai-mojing.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-dai-mojing.png |
+| baimao-kai-che.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-kai-che.png |
+| baimao-he-naicha.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-he-naicha.png |
+| baimao-bao-jiuping.png | 无文字 | https://cdn.jsdelivr.net/gh/xuzhinan1021-source/coucou-stickers@main/stickers/baimao-bao-jiuping.png |
