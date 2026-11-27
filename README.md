@@ -173,3 +173,80 @@
 | wo-suiran-dabudao-bie-yizhi-da.png | 我虽然打不倒/但也不能一直打我吧 | https://serein3cc.cn/stickers/wo-suiran-dabudao-bie-yizhi-da.png |
 | maopin-hen-cha-bie-mo.png | 猫品很差，别摸 | https://serein3cc.cn/stickers/maopin-hen-cha-bie-mo.png |
 | xiao-meimei-niubi-kalasi.png | 小妹妹你挺牛逼卡拉斯呀 | https://serein3cc.cn/stickers/xiao-meimei-niubi-kalasi.png |
+| gandong-wo-xingan.png | 敢动我心肝？ | https://serein3cc.cn/stickers/gandong-wo-xingan.png |
+| ni-niu-shenme-niu.png | 你牛什么牛？ | https://serein3cc.cn/stickers/ni-niu-shenme-niu.png |
+| niye-zhipei-gei-benji-tianjiao.png | 你也只配给本吉舔脚 | https://serein3cc.cn/stickers/niye-zhipei-gei-benji-tianjiao.png |
+| ni-mei-huo-gan-ma.png | 你没活干吗？ | https://serein3cc.cn/stickers/ni-mei-huo-gan-ma.png |
+| wo-re-ni-mei.png | 我惹你没 | https://serein3cc.cn/stickers/wo-re-ni-mei.png |
+| renjia-dou-ku-re.png | 人家都哭惹 | https://serein3cc.cn/stickers/renjia-dou-ku-re.png |
+| woqu-buzaoshuo.png | 我去 不早说 | https://serein3cc.cn/stickers/woqu-buzaoshuo.png |
+| xihuan-wo-de-keyi-jianjiao-le.png | 喜欢我的可以尖叫了 | https://serein3cc.cn/stickers/xihuan-wo-de-keyi-jianjiao-le.png |
+| ya-tou.png | 鸭头~ | https://serein3cc.cn/stickers/ya-tou.png |
+| shengerwei-na-wo-hen-nini.png | 生而为纳 我很尼尼 | https://serein3cc.cn/stickers/shengerwei-na-wo-hen-nini.png |
+| he-da-shui.png | 喝大水 | https://serein3cc.cn/stickers/he-da-shui.png |
+| zaoshang-mi-jinxing-kafei-xiqu.png | 早上 咪进行了咖啡的吸取 | https://serein3cc.cn/stickers/zaoshang-mi-jinxing-kafei-xiqu.png |
+| qianpai-chigua.png | 前排吃瓜 | https://serein3cc.cn/stickers/qianpai-chigua.png |
+| dashengdian-wo-jinshi.png | 大声点，我近视 | https://serein3cc.cn/stickers/dashengdian-wo-jinshi.png |
+| qizao-tanhei-zhuan-jimao.png | 起早贪黑/赚那几毛几块 | https://serein3cc.cn/stickers/qizao-tanhei-zhuan-jimao.png |
+| wo-xiang-baojing.png | 我想报警 | https://serein3cc.cn/stickers/wo-xiang-baojing.png |
+| daotou-jiu-shui.png | 倒头就睡 | https://serein3cc.cn/stickers/daotou-jiu-shui.png |
+| ni-daoshi-shuo-a-a-a.png | 你倒是说啊啊啊啊！！！ | https://serein3cc.cn/stickers/ni-daoshi-shuo-a-a-a.png |
+| wo-zhen-le.png | 我真/了 | https://serein3cc.cn/stickers/wo-zhen-le.png |
+| momo-ni.png | 摸摸你 | https://serein3cc.cn/stickers/momo-ni.png |
+| bu-dui.png | 不兑 | https://serein3cc.cn/stickers/bu-dui.png |
+| rang-ge-kankan-zenme-geshi.png | 让哥看看怎么个事 | https://serein3cc.cn/stickers/rang-ge-kankan-zenme-geshi.png |
+| zai-jia-mei-kai-ge-men.png | 在家没 开个门 | https://serein3cc.cn/stickers/zai-jia-mei-kai-ge-men.png |
+| wo-jintian-hen-anjing.png | 我今天很安静 | https://serein3cc.cn/stickers/wo-jintian-hen-anjing.png |
+| bu-xi-le-bu-cou.png | 不洗了 不凑 | https://serein3cc.cn/stickers/bu-xi-le-bu-cou.png |
+| biewen-wen-jiushi-aini.png | 别问/问就是爱你 | https://serein3cc.cn/stickers/biewen-wen-jiushi-aini.png |
+| wo-xunsi-bu-huo-le-ba.png | 我寻思我还是不活了吧 | https://serein3cc.cn/stickers/wo-xunsi-bu-huo-le-ba.png |
+| wo-zenme-gen-gou-yiyang.png | 我怎么跟狗一样 | https://serein3cc.cn/stickers/wo-zenme-gen-gou-yiyang.png |
+| xiang-shi.png | 想屎 | https://serein3cc.cn/stickers/xiang-shi.png |
+| ge-de-lenghu-lingxia-badu.png | 哥的冷酷 零下8度 | https://serein3cc.cn/stickers/ge-de-lenghu-lingxia-badu.png |
+| zhe-ye-lai-wo.png | 这也赖我 | https://serein3cc.cn/stickers/zhe-ye-lai-wo.png |
+| meikong-youshang.png | 没空忧伤 | https://serein3cc.cn/stickers/meikong-youshang.png |
+| tai-haochi-le.png | 太好吃了 | https://serein3cc.cn/stickers/tai-haochi-le.png |
+| jiejiejie-fachu-fanpai-xiaosheng.png | 桀桀桀~/发出反派的笑声 | https://serein3cc.cn/stickers/jiejiejie-fachu-fanpai-xiaosheng.png |
+| zhezhong-ganjue-hen-nanshou.png | 这种感觉很难受 | https://serein3cc.cn/stickers/zhezhong-ganjue-hen-nanshou.png |
+| chen-si.png | 沉思 | https://serein3cc.cn/stickers/chen-si.png |
+| huaiduan-duande-turan-haoqilai.png | 坏端端的/突然好起来了 | https://serein3cc.cn/stickers/huaiduan-duande-turan-haoqilai.png |
+| kunai-ruhou-xin-zuotong.png | 苦奶入喉心作痛 | https://serein3cc.cn/stickers/kunai-ruhou-xin-zuotong.png |
+| youshihou-mi-zai-xiang-shenme.png | 有时候咪在想/咪在想什么来着 | https://serein3cc.cn/stickers/youshihou-mi-zai-xiang-shenme.png |
+| gong-yi-gong.png | 拱 | https://serein3cc.cn/stickers/gong-yi-gong.png |
+| qiangzhi-kaiji.png | 强制开机 | https://serein3cc.cn/stickers/qiangzhi-kaiji.png |
+| lai-ni-guolai.png | 来 你过来！ | https://serein3cc.cn/stickers/lai-ni-guolai.png |
+| ni-meishi-ba.png | 你没事吧 | https://serein3cc.cn/stickers/ni-meishi-ba.png |
+| xinli-hen-bushi-ziwei.png | 心里很不是滋味 | https://serein3cc.cn/stickers/xinli-hen-bushi-ziwei.png |
+| beng-jiaojian.png | 绷脚尖 | https://serein3cc.cn/stickers/beng-jiaojian.png |
+| zhe-jiushi-tiantang-ma.png | 这就是天堂吗 | https://serein3cc.cn/stickers/zhe-jiushi-tiantang-ma.png |
+| baochi-weixiao.png | 保持微笑 | https://serein3cc.cn/stickers/baochi-weixiao.png |
+| woqu-zheke-tai-you-dongxi-le.png | 我去 这可太有东西了 | https://serein3cc.cn/stickers/woqu-zheke-tai-you-dongxi-le.png |
+| jie-jie-jie.png | 桀桀桀 | https://serein3cc.cn/stickers/jie-jie-jie.png |
+| rensheng-ruci-na-jiu-lai.png | 人生如此 拿酒来 | https://serein3cc.cn/stickers/rensheng-ruci-na-jiu-lai.png |
+| bumingque-shuijiao-shentou.png | DEEP SLEEP | https://serein3cc.cn/stickers/bumingque-shuijiao-shentou.png |
+| wo-kan-taoyuanming-weibi-youwo-danbo.png | 我看陶渊明未必有我淡泊 | https://serein3cc.cn/stickers/wo-kan-taoyuanming-weibi-youwo-danbo.png |
+| wo-zhudao-le-ya-yizhi-chaochao.png | 我猪道了呀/一直吵吵吵 | https://serein3cc.cn/stickers/wo-zhudao-le-ya-yizhi-chaochao.png |
+| zhan-gaochu-jiazhuang-tiao-wangxia-niao.png | 站在高处假装跳/等人多了往下尿 | https://serein3cc.cn/stickers/zhan-gaochu-jiazhuang-tiao-wangxia-niao.png |
+| xiao-zhu-pang-huhu-he-naigai.png | 小猪小猪胖乎乎/喝杯奶盖呼噜噜 | https://serein3cc.cn/stickers/xiao-zhu-pang-huhu-he-naigai.png |
+| rensheng-jiuxiang-fennu-xiaoniao.png | 人生就像愤怒的小鸟/失败时总有几头猪嘲笑 | https://serein3cc.cn/stickers/rensheng-jiuxiang-fennu-xiaoniao.png |
+| wo-dou-jinshi-le-kan-bujian.png | 我都近视了你还要我有什么远见/我看不见。 | https://serein3cc.cn/stickers/wo-dou-jinshi-le-kan-bujian.png |
+| you-shenme-shi-mingtian-ye-bieshuo.png | 有什么事明天也别说 | https://serein3cc.cn/stickers/you-shenme-shi-mingtian-ye-bieshuo.png |
+| wo-shi-youdian-dudu-biren.png | 我是有点肚肚逼人 | https://serein3cc.cn/stickers/wo-shi-youdian-dudu-biren.png |
+| zhen-kaixin-bi-yan-shuijiao.png | 无文字 | https://serein3cc.cn/stickers/zhen-kaixin-bi-yan-shuijiao.png |
+| wanhuacong-zhong-yizhizhu.png | 万花丛中一只猪 | https://serein3cc.cn/stickers/wanhuacong-zhong-yizhizhu.png |
+| wo-hen-mengbi-ya.png | 我很懵逼呀。 | https://serein3cc.cn/stickers/wo-hen-mengbi-ya.png |
+| hao-su-hu.png | 好酥胡 | https://serein3cc.cn/stickers/hao-su-hu.png |
+| mei-tian-jiu-zheyang-daidai-de.png | 每天就这样呆呆的 | https://serein3cc.cn/stickers/mei-tian-jiu-zheyang-daidai-de.png |
+| shi-bu-guanji-kuaikuai-shuaqi.png | 事不关己快快耍起 | https://serein3cc.cn/stickers/shi-bu-guanji-kuaikuai-shuaqi.png |
+| laoban-wo-la-chuangshang-le.png | 老伴我拉床上了 | https://serein3cc.cn/stickers/laoban-wo-la-chuangshang-le.png |
+| zhe-zhong-ganshou-hen-nanshou.png | 这种感受很难受 | https://serein3cc.cn/stickers/zhe-zhong-ganshou-hen-nanshou.png |
+| wo-xihuan-ni-dou-ni-de.png | 我喜欢你，你猜为什么带逗号 因为我逗你的 | https://serein3cc.cn/stickers/wo-xihuan-ni-dou-ni-de.png |
+| qiuqiu-le-bie-tuoyan-le.png | 求求了/别拖延了 | https://serein3cc.cn/stickers/qiuqiu-le-bie-tuoyan-le.png |
+| ni-de-naozi-jiaoguo-ma.png | 你的脑子是被嚼过吗 | https://serein3cc.cn/stickers/ni-de-naozi-jiaoguo-ma.png |
+| hele-jiajiu.png | 喝了假酒 | https://serein3cc.cn/stickers/hele-jiajiu.png |
+| wode-shijie-zai-xiayu.png | 我的世界在下雨 | https://serein3cc.cn/stickers/wode-shijie-zai-xiayu.png |
+| woshi-ni-suisuijiaodao-de-gou-ma.png | 我是你随叫随到的狗嘛 | https://serein3cc.cn/stickers/woshi-ni-suisuijiaodao-de-gou-ma.png |
+| haoxiaozi-ni-gandian-renshi-xingbuxing.png | 好小子/你干点人事行不行 | https://serein3cc.cn/stickers/haoxiaozi-ni-gandian-renshi-xingbuxing.png |
+| shuang-lou.png | 爽喽 | https://serein3cc.cn/stickers/shuang-lou.png |
+| xingle-zhunbei-redian-mafan.jpg | 醒了 准备惹点麻烦 | https://serein3cc.cn/stickers/xingle-zhunbei-redian-mafan.jpg |
+| qifu-meiyou-lili-shouduan-de-ren.jpg | 欺负一个没有任何力气和/手段的人难道很开心吗 | https://serein3cc.cn/stickers/qifu-meiyou-lili-shouduan-de-ren.jpg |
